@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Login_Page_Objects/Login_Submit_Button'))
 
 WebUI.delay(15)
 
-WebUI.click(findTestObject('Create_Garrage/Product_Menu'))
+WebUI.click(findTestObject('Create_Garrage/Product_Menu_Expand'))
 
 WebUI.waitForElementClickable(findTestObject('Create_Garrage/Garage_Management_Menu'), 5)
 

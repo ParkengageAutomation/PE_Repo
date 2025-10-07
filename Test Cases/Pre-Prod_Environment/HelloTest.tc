@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>HelloTest</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0fba211a-f294-4d63-81fc-53c35afe2fc4</testCaseGuid>
-</TestCaseEntity>

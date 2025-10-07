@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Functionality</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db6d1d13-d537-4459-b748-d6d7c69a7a2d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b3483fa-6b0e-40e2-9157-cfa54d88799b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b3483fa-6b0e-40e2-9157-cfa54d88799b</id>
+      <masked>false</masked>
+      <name>dashboard_url</name>
+   </variable>
+</TestCaseEntity>

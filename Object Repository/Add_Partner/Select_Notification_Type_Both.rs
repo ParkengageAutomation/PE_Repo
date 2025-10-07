@@ -6,12 +6,11 @@
    <elementGuidId>735031a8-bdfa-4da8-9e22-9a630cfc1de2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[@for='notification_type']//input[@value='2']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//label[normalize-space()='Both']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

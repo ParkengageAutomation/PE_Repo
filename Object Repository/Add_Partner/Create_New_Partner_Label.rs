@@ -6,13 +6,11 @@
    <elementGuidId>a131f8b4-a0b7-4b21-812e-460dd0aebaa8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//h4[normalize-space()='Create New Partner']&#xd;
-</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//h1[normalize-space()='Create New Partner']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

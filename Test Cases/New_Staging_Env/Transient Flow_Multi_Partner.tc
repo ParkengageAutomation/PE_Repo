@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transient Flow_Multi_Partner</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fb8edcf3-90cb-4a5b-aab4-b55d78873f47</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3271ae8-4a5b-4853-8053-fcffae779ee7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a30e1e0f-8b0c-4beb-85bc-a5e44fce540a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b3271ae8-4a5b-4853-8053-fcffae779ee7</id>
+      <masked>false</masked>
+      <name>mobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a30e1e0f-8b0c-4beb-85bc-a5e44fce540a</id>
+      <masked>false</masked>
+      <name>lpNumber</name>
+   </variable>
+</TestCaseEntity>

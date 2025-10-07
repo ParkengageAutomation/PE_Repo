@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Transient Flow_Partner_Parking_Payments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0802eeeb-ac83-46e7-8328-2acf5fd2f9b6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2c49f4d-a868-4d20-96b4-5dfdda7de3a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>445703ed-d5a9-4b8b-8c2d-46fe84969462</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2c49f4d-a868-4d20-96b4-5dfdda7de3a6</id>
+      <masked>false</masked>
+      <name>mobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>445703ed-d5a9-4b8b-8c2d-46fe84969462</id>
+      <masked>false</masked>
+      <name>lpNumber</name>
+   </variable>
+</TestCaseEntity>

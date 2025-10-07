@@ -6,12 +6,11 @@
    <elementGuidId>21fa6d37-8572-4f37-ab9d-9cf3fc2cdad8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//option[@value='3']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//select[@id='service']/option[text()='Touchless Self Parking']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

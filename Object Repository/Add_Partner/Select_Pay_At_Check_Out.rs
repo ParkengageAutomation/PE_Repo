@@ -6,12 +6,11 @@
    <elementGuidId>a4f38dc3-073f-41f0-a569-93925657132e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//label[@class='formCont']//input[@name='pay_at']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//label[normalize-space()='Check-out']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

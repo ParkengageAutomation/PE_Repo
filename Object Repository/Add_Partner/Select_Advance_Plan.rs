@@ -6,12 +6,14 @@
    <elementGuidId>5743a4dc-a1ad-4fd2-84ba-4a25efa2f191</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@name='selectServicePlan']//option[@value='2']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//option[text()='SuperAdmin']&#xd;
+&#xd;
+&#xd;
+</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

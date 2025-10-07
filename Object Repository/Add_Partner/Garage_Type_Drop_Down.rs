@@ -6,12 +6,11 @@
    <elementGuidId>d6b970dc-1328-4837-b2b7-d371eb6bdb4c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='garage_type']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//select[@name='is_gated_facility']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

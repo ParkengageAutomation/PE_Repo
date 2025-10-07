@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Garage_Management_Add_New_Garage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7e9456b2-712e-4d07-9636-cb56c6476fb6</testCaseGuid>
+</TestCaseEntity>

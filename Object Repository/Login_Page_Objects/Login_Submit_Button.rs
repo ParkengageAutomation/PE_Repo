@@ -7,12 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[normalize-space()='Sign in']&#xd;
-</value>
+         <value>//button[normalize-space()='LOGIN'] | //button[normalize-space()='Sign in'] | //button[@type='submit']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

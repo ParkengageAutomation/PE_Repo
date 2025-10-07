@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@x-placement='bottom-end']//span[@alt='Delete']//span//span[contains(text(),'Delete')]</value>
+         <value>//tbody/tr[1]/td[6]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
