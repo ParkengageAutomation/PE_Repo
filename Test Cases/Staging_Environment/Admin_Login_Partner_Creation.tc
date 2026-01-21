@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Admin_Login_Partner_Creation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64107037-5d8d-452c-99ca-da383d65a00e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7f1e6199-503b-40b6-a16a-4115ee8e7483</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2881711-b532-45b8-8c90-1d370938dde2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'superadmin@parkengage.com\r\n'</defaultValue>
+      <description></description>
+      <id>7f1e6199-503b-40b6-a16a-4115ee8e7483</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2881711-b532-45b8-8c90-1d370938dde2</id>
+      <masked>false</masked>
+      <name>dashboard_url</name>
+   </variable>
+</TestCaseEntity>

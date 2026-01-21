@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>b30b00fa-839f-4153-a13a-d40028255f5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe[title=&quot;Embedded Dashboard&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='superset-container']/iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>iframe[title=&quot;Embedded Dashboard&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>c98764fd-d7c2-4caa-b550-6d3ebeaa64d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sandbox</name>
+      <type>Main</type>
+      <value>allow-same-origin allow-scripts allow-presentation allow-downloads allow-forms allow-popups</value>
+      <webElementGuid>309bda03-9a08-4497-85e5-f2fbae23638a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://da-stg.parkengage.com:5000/embedded/96213a28-ce51-4746-aa6a-6c8dbe8aac8e?uiConfig=1</value>
+      <webElementGuid>4359ccdb-b8c1-4d24-a435-dd628c3c0c0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Embedded Dashboard</value>
+      <webElementGuid>202f20cd-78ae-40f1-b15c-3afbc62cc7d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;superset-container&quot;)/iframe[1]</value>
+      <webElementGuid>406aa672-7b4d-4c9a-b038-ae4638eac798</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='superset-container']/iframe</value>
+      <webElementGuid>d3a6e139-eb45-4bc6-bab8-b590d6b3ba27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>e679f0c0-0da1-4ef7-b392-52890d977005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://da-stg.parkengage.com:5000/embedded/96213a28-ce51-4746-aa6a-6c8dbe8aac8e?uiConfig=1' and @title = 'Embedded Dashboard']</value>
+      <webElementGuid>87345d2a-adb9-44f7-a808-8987bfb57a66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

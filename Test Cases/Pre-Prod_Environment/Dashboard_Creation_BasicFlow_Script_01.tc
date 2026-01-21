@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Dashboard_Creation_BasicFlow_Script_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6254c234-1658-4465-b0b5-ba80b4037534</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8022171-cded-4a64-8fcf-a8b3da38943a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'superadmin@parkengage.com\r\n'</defaultValue>
+      <description></description>
+      <id>a8022171-cded-4a64-8fcf-a8b3da38943a</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
